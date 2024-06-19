@@ -3,3 +3,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lm83680/lm83680/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lm83680/lm83680/output/github-contribution-grid-snake.svg">
 </picture>
+[![lm83680's GitHub | Stats](https://stats.quira.sh/lm83680/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=lm83680)
