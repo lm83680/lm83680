@@ -2,7 +2,7 @@
 
 Strive to become a qualified Web3 engineer. Additionally, proficient in HarmonyOS is also great.😍
 
-Besides studying blockchain, I'm dedicating time to a "desktop companion robot" project. Although it may take several years, I'm ready for it.This is an open-source project, and contributions are welcome.
+Besides studying blockchain, I'm dedicating time to a [Robot](https://github.com/lm83680/Benny-Robot) ,her name is "Benny". Although it may take several years, I'm ready for it.This is an open-source project, and contributions are welcome.
 
 ### 💼 Toolkit
 
