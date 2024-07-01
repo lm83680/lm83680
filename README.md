@@ -11,6 +11,7 @@ Besides studying blockchain, I'm dedicating time to a "desktop companion robot" 
 - 🛠️ Backend: Python, Rust, Go
 - 📱 Mobile: Flutter, Android(kotlin) , ios(swift)
 - ⚙️ Version Control: Git, GitHub/GitLab
+- 😶‍🌫️order: Embedded
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
