@@ -2,13 +2,15 @@
 
 Strive to become a qualified Web3 engineer. Additionally, proficient in HarmonyOS is also great.😍
 
+Besides studying blockchain, I'm dedicating time to a "desktop companion robot" project. Although it may take several years, I'm ready for it.This is an open-source project, and contributions are welcome.
+
 ### 💼 Toolkit
 
-- 🌐 Web3 Mastery: Ethereum, Bitcoin, Smart Contracts
+- 🌐 Web3: Ethereum, Bitcoin, Smart Contracts
 - 🎃 Frontend: React, Vue.js, Flutter
 - 🛠️ Backend: Python, Rust, Go
 - 📱 Mobile: Flutter, Android(kotlin) , ios(swift)
-- ⚙️ Version Control Secrets: Git, GitHub/GitLab
+- ⚙️ Version Control: Git, GitHub/GitLab
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
