@@ -13,7 +13,7 @@ Besides studying blockchain, I'm dedicating time to a [Robot](https://github.com
 - ⚙️ Version Control: Git, GitHub/GitLab
 - 😶‍🌫️order: Embedded
 
-![](./profile-3d-contrib/profile-gitblock.svg.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ### 🌐social
 
