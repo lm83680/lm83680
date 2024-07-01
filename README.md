@@ -14,7 +14,7 @@ Strive to become a qualified Web3 engineer. Additionally, proficient in HarmonyO
 
 ### 🌐social
 
-What human language can describe, 0 and 1 can do, believe it.
+What human language can describe, the language of 0 and 1 can also achieve. Believe it.
 - CSDN: [CSDN](blog.csdn.net/qq_40837841)
 - e-mail: [ten.9@foxmail.com](mailto:ten.9@foxmail.com)
 
