@@ -1,13 +1,13 @@
 ## 西鼠霸王
 
-- 🆕 : Rust
-  
-1. **Flutter**[^1^]
-2. **Rust**[^2^]  
-   **Python**[^2^]
-3. **TypeScript**[^2^]  
-   **Solidity**[^2^]  
-   **GoLand**[^2^]
+🔥 : Flutter   
+🆕 : Rust
+
+--- 
+### 🌟🌟🌟  Flutter
+#### 🌟🌟 Rust  Python
+##### 🌟 TypeScript  Solidity  GoLand
+--- 
    
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
