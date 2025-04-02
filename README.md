@@ -1,9 +1,14 @@
 ## 西鼠霸王
 
-- 🆕 : 鸿蒙应用开发
-- 📱 : Flutter
-- 🛠️ : Python,Go
-
+- 🆕 : Rust
+  
+1. **Flutter**[^1^]
+2. **Rust**[^2^]  
+   **Python**[^2^]
+3. **TypeScript**[^2^]  
+   **Solidity**[^2^]  
+   **GoLand**[^2^]
+   
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 - e-mail: [ten.9@foxmail.com](mailto:ten.9@foxmail.com)
