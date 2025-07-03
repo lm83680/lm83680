@@ -1,7 +1,7 @@
 ## 西鼠霸王
 
-🔥 : Flutter   
-🆕 : Rust + Web3
+😎 : Flutter   
+😊: Rust + Web3
 
 --- 
 ### 🌟🌟🌟  Flutter
@@ -11,7 +11,7 @@
    
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-- e-mail: [ten.9@foxmail.com](mailto:ten.9@foxmail.com)
+- e-mail: [qcter@icloud.com](mailto:qcter@icloud.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lm83680/lm83680/output/github-contribution-grid-snake-dark.svg">
