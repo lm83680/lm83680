@@ -21,6 +21,4 @@
 
 ---
 
-### open-source enthusiast / 饮水思源
-
 
